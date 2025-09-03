@@ -8,3 +8,10 @@ git add *
 git commit -am "First added to main"
 git push --set-upstream origin main
 ```
+
+Add extra commit
+```bash
+git add *
+git commit -am "Second added to main"
+git push
+```
